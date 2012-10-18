@@ -8,4 +8,5 @@
 public class bird {
     private String say="Crazy";
     int y=7;
+    private String sayofSeregi = "Privet Xoxol";
 }
